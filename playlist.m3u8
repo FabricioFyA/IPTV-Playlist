@@ -107,7 +107,7 @@ http://200.219.40.1:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Infantiles",Disney Junior
 http://200.219.40.1:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/330.png" group-title="Infantiles",Discovery Kids
-http://200.219.40.1:8000/play/a06t/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="Infantiles",Cartoonito
 http://190.235.206.107:9070/play/a0oq/index.m3u8
 #EXTINF:-1 tvg-id="Teen Nick.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TeenNick_2023_Outlined_Logo.png/500px-TeenNick_2023_Outlined_Logo.png" group-title="Infantiles",TeenNick (Disponible hasta el 31 de Diciembre)
