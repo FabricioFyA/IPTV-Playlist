@@ -95,7 +95,7 @@ http://200.219.40.1:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="PAKA PAKA.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/303.png" group-title="Argentina",Paka Paka
 http://200.219.40.1:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="Infantiles",Cartoon Network
-http://200.219.40.1:8000/play/a075/index.m3u8
+http://179.60.224.196:8000/play/a0hn
 #EXTINF:-1 tvg-id="TOONCAST.ar" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/07/tooncast-logo.png" group-title="Infantiles",Tooncast
 http://204.157.232.39:53200/play/a0af
 #EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/308.png" group-title="Infantiles",Nickelodeon (SD)
