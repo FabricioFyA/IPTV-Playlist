@@ -130,8 +130,10 @@ http://200.219.40.1:8000/play/a02a/index.m3u8
 http://45.5.151.62:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="HBO Premium",HBO Xtreme
 http://200.219.40.1:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="DSPORTS (ARG).ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/610.png" group-title="Deportes",DSports
+#EXTINF:-1 tvg-id="DSPORTS (PERU).pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/610.png" group-title="Deportes",DSport Perú
 http://190.235.206.107:9070/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS (ARG).ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/610.png" group-title="Deportes",DSport Argentina
+http://201.217.246.84:9000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/621.png" group-title="Deportes",ESPN
 http://200.219.40.1:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/622.png" group-title="Deportes",ESPN 2
