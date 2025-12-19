@@ -12,6 +12,18 @@ http://200.219.40.1:8000/play/a0fd/index.m3u8
 http://200.219.40.1:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="CANAL LUZ.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/127.png" group-title="Argentina",Canal Luz
 http://45.5.151.62:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/715.png" group-title="Argentina",La Nación +
+http://200.219.40.1:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/716.png" group-title="Argentina",Todo Noticias
+http://200.219.40.1:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/717.png" group-title="Argentina",C5N
+http://200.219.40.1:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="Argentina",Crónica TV
+http://200.219.40.1:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/719.png" group-title="Argentina",A24
+http://200.219.40.1:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png" group-title="Argentina",Canal 26
+http://200.219.40.1:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="ENCUENTRO.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/128.png" group-title="Argentina",Canal Encuentro
 http://200.219.40.1:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Canal Rural.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/129.png" group-title="Argentina",Canal Rural
@@ -136,15 +148,3 @@ http://200.219.40.1:8000/play/a02s/index.m3u8
 http://190.235.206.107:9070/play/a0hn/index.m3u8
 #EXTINF:-1 tvg-id="CNN INTERNACIONAL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/706.png" group-title="Internacional",CNN Internacional
 http://190.235.206.107:9070/play/a0hi/index.m3u8
-#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/715.png" group-title="Argentina",La Nación +
-http://200.219.40.1:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/716.png" group-title="Argentina",Todo Noticias
-http://200.219.40.1:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/717.png" group-title="Argentina",C5N
-http://200.219.40.1:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="Argentina",Crónica TV
-http://200.219.40.1:8000/play/a0fp/index.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/719.png" group-title="Argentina",A24
-http://200.219.40.1:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png" group-title="Argentina",Canal 26
-http://200.219.40.1:8000/play/a01r/index.m3u8
