@@ -38,6 +38,8 @@ http://200.219.40.1:8000/play/a05e/index.m3u8
 http://200.219.40.1:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/208.png" group-title="Cine",Sony Channel
 http://200.219.40.1:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="SONY MOVIES.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/506.png" group-title="Cine",Sony Channel
+http://190.60.42.86:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/209.png" group-title="Cine",AXN
 http://200.219.40.1:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/210.png" group-title="Cine",AMC
@@ -48,7 +50,9 @@ http://200.219.40.1:8000/play/a02x/index.m3u8
 http://45.5.151.62:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/218.png" group-title="Cine",Universal TV
 http://200.219.40.1:8000/play/a05j/index.m3u8
-#EXTINF:-1 tvg-id="USA.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/219.png" group-title="Cine",USA
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png" group-title="Cine",Studio Universal
+http://186.121.139.227:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="USA.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/219.png" group-title="Cine",USA Network
 http://200.219.40.1:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="Adult Swim.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/220.png" group-title="Variedades",Adult Swim
 http://200.219.40.1:8000/play/a0dd/index.m3u8
