@@ -1,0 +1,140 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml"
+
+#EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/120.png" group-title="Argentina",América TV
+http://200.219.40.1:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/121.png" group-title="Argentina",TV Pública
+http://200.219.40.1:8000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/122.png" group-title="Argentina",Canal 9
+http://200.219.40.1:8000/play/a0fe/index.m3u8
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/123.png" group-title="Argentina",Telefe
+http://200.219.40.1:8000/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/124.png" group-title="Argentina",Canal 13
+http://200.219.40.1:8000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-id="CANAL LUZ.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/127.png" group-title="Argentina",Canal Luz
+http://45.5.151.62:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="ENCUENTRO.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/128.png" group-title="Argentina",Canal Encuentro
+http://200.219.40.1:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="Canal Rural.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/129.png" group-title="Argentina",Canal Rural
+http://200.219.40.1:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="Canal 7 de Jujuy.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/133.png" group-title="Argentina",Canal 7 de Jujuy
+http://45.5.151.62:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/204.png" group-title="Cine",Star Channel
+http://200.219.40.1:8000/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/206.png" group-title="Cine",Warner Bros. TV
+http://200.219.40.1:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/207.png" group-title="Cine",A&E
+http://200.219.40.1:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/208.png" group-title="Cine",Sony Channel
+http://200.219.40.1:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/209.png" group-title="Cine",AXN
+http://200.219.40.1:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/210.png" group-title="Cine",AMC
+http://200.219.40.1:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/215.png" group-title="Variedades",Comedy Central
+http://200.219.40.1:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/217.png" group-title="Cine",FX
+http://45.5.151.62:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/218.png" group-title="Cine",Universal TV
+http://200.219.40.1:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="USA.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/219.png" group-title="Cine",USA
+http://200.219.40.1:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="Adult Swim.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/220.png" group-title="Variedades",Adult Swim
+http://200.219.40.1:8000/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="I1.82970.schedulesdirect.org" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/221.png" group-title="Variedades",¡HOLA! TV
+http://190.235.206.107:9070/play/a0m6/index.m3u8
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/222.png" group-title="Variedades",E!
+http://200.219.40.1:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/223.png" group-title="Variedades",Discovery ID
+http://190.235.206.107:9070/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="Pasiones.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/225.png" group-title="Variedades",Pasiones
+http://190.235.206.107:9070/play/a0jr/index.m3u8
+#EXTINF:-1 tvg-id="LAS ESTRELLAS HD.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/226.png" group-title="Variedades",Canal de las Estrellas
+http://190.235.206.107:9070/play/a0jp/index.m3u8
+#EXTINF:-1 tvg-id="TLNOVELAS.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/227.png" group-title="Variedades",TLNovelas
+http://200.219.40.1:8000/play/a0f4/index.m3u8
+#EXTINF:-1 tvg-id="LIFETIME.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/228.png" group-title="Variedades",Lifetime
+http://200.219.40.1:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH HD.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" group-title="Variedades",Discovery Home & Health
+http://200.219.40.1:8000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-id="AMC SERIES.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/230.png" group-title="Variedades",AMC Series
+http://200.219.40.1:8000/play/a0fN/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo Internacional.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/231.png" group-title="Variedades",Telemundo Internacional
+http://45.5.151.62:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/233.png" group-title="Variedades",Food Network
+http://45.5.151.62:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="MAGAZINE.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/236.png" group-title="Variedades",Ciudad Magazine
+http://200.219.40.1:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="VOLVER.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/238.png" group-title="Variedades",Volver
+http://200.219.40.1:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/264.png" group-title="Música",MTV (Según esto es un canal de Música)
+http://200.219.40.1:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="QUIERO.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/269.png" group-title="Música",Quiero Música en mi Idioma
+http://200.219.40.1:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="PAKA PAKA.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/303.png" group-title="Argentina",Paka Paka
+http://200.219.40.1:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Networ Latinoamerica.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/304.png" group-title="Infantiles",Cartoon Network
+http://200.219.40.1:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-id="TOONCAST.ar" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/07/tooncast-logo.png" group-title="Infantiles",Tooncast
+http://45.5.151.62:8000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/308.png" group-title="Infantiles",Nickelodeon (SD)
+http://200.219.40.1:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="NICK JR.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/309.png" group-title="Infantiles",Nick Jr. (SD)
+http://200.219.40.1:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/312.png" group-title="Infantiles",Disney Channel
+http://200.219.40.1:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/315.png" group-title="Infantiles",Disney Junior
+http://200.219.40.1:8000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/330.png" group-title="Infantiles",Discovery Kids
+http://200.219.40.1:8000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="CARTOONITO.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/334.png" group-title="Infantiles",Cartoonito
+http://190.235.206.107:9070/play/a0oq/index.m3u8
+#EXTINF:-1 tvg-id="Teen Nick.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TeenNick_2023_Outlined_Logo.png/500px-TeenNick_2023_Outlined_Logo.png" group-title="Infantiles",TeenNick (Disponible hasta el 31 de Diciembre)
+http://45.5.151.62:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Infantiles",DreamWorks
+http://45.5.151.62:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/524.png" group-title="HBO Premium",HBO
+http://45.5.151.62:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/525.png" group-title="HBO Premium",HBO 2
+http://45.5.151.62:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/526.png" group-title="HBO Premium",HBO Plus
+http://45.5.151.62:8000/play/a089/index.m3u8
+#EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/528.png" group-title="HBO Premium",HBO Signature
+http://200.219.40.1:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/534.png" group-title="HBO Premium",HBO Family
+http://200.219.40.1:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/540.png" group-title="HBO Premium",HBO Mundi
+http://200.219.40.1:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="HBO POP.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/541.png" group-title="HBO Premium",HBO POP
+http://45.5.151.62:8000/play/a08a/index.m3u8
+#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/542.png" group-title="HBO Premium",HBO Xtreme
+http://200.219.40.1:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS (ARG).ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/610.png" group-title="Deportes",DSports
+http://190.235.206.107:9070/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/621.png" group-title="Deportes",ESPN
+http://200.219.40.1:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/622.png" group-title="Deportes",ESPN 2
+http://200.219.40.1:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/623.png" group-title="Deportes",ESPN 3
+http://200.219.40.1:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1624.png" group-title="Deportes",ESPN 4
+http://200.219.40.1:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1628.png" group-title="Deportes",Golf Channel LATAM
+http://190.235.206.107:9070/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/629.png" group-title="Deportes",TyC Sports
+http://200.219.40.1:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="CNN ESPAÑOL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/704.png" group-title="Internacional",CNN en Español
+http://190.235.206.107:9070/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-id="CNN INTERNACIONAL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/706.png" group-title="Internacional",CNN Internacional
+http://190.235.206.107:9070/play/a0hi/index.m3u8
+#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/715.png" group-title="Argentina",La Nación +
+http://200.219.40.1:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/716.png" group-title="Argentina",Todo Noticias
+http://200.219.40.1:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/717.png" group-title="Argentina",C5N
+http://200.219.40.1:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="Argentina",Crónica TV
+http://200.219.40.1:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/719.png" group-title="Argentina",A24
+http://200.219.40.1:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png" group-title="Argentina",Canal 26
+http://200.219.40.1:8000/play/a01r/index.m3u8
