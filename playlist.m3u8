@@ -153,7 +153,7 @@ http://45.5.151.62:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="HOLA TV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/221.png" group-title="Variedades",¡HOLA! TV
 http://190.235.206.107:9070/play/a0m6/index.m3u8
 #EXTINF:-1 tvg-id="Adult Swim.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/220.png" group-title="Variedades",Adult Swim
-http://200.219.40.1:8000/play/a0dd/index.m3u8
+http://190.104.67.77:234/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="LIFETIME.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/228.png" group-title="Variedades",Lifetime
 http://200.219.40.1:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/225.png" group-title="Variedades",Pasiones
