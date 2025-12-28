@@ -109,6 +109,16 @@ http://46.149.191.217:9011/play/a00v
 http://46.149.191.217:9011/play/a00r
 #EXTINF:-1 tvg-id="QUIERO.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/269.png" group-title="Música",Quiero Música en mi Idioma
 http://200.219.40.1:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="TOTALMUSIC.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TOTALMUSIC80s.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TOTALMUSIC00s.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Música",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TOTALMUSICConcerts.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Música",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TOTALMUSICDance.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Música",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cine-canal-lam.png" group-title="Cine",Cinecanal
 http://190.104.67.173:234/play/a089/index.m3u8
@@ -166,7 +176,10 @@ http://200.219.40.1:8000/play/a0f4/index.m3u8
 #EXTINF:-1 tvg-id="LAS ESTRELLAS HD.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/226.png" group-title="Variedades",Canal de las Estrellas
 http://190.235.206.107:9070/play/a0jp/index.m3u8
 
-
+#EXTINF:-1 tvg-id="ENTChannel.ar" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Variedades",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="ENTFamily.ar" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Variedades",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="AMC SERIES.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/230.png" group-title="Variedades",AMC Series
 http://200.219.40.1:8000/play/a0fN/index.m3u8
