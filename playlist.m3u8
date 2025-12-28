@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/generate/7J9FpwTjRA.xml"
 
 #EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/120.png" group-title="Argentina",América TV
 http://200.219.40.1:8000/play/a055/index.m3u8
