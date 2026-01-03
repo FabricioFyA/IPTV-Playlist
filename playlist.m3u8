@@ -192,3 +192,7 @@ http://190.235.206.107:9070/play/a0hn/index.m3u8
 http://190.235.206.107:9070/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-id="KanadeTV" tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Internacional",Kanade (Chile)
 https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Internacional",VTV (Venezuela)
+https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="Internacional",TeleSur (Venezuela)
+http://179.51.160.246:8888/play/a02h/index.m3u8
