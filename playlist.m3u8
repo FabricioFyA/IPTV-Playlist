@@ -95,18 +95,6 @@ http://200.219.40.1:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/264.png" group-title="Música",MTV (Según esto es un canal de Música)
 http://200.219.40.1:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="CLUB MTV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/264.png" group-title="Música",Club MTV
-http://46.149.191.217:9011/play/a00t
-#EXTINF:-1 tvg-id="MTV HITS.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/264.png" group-title="Música",MTV Hits
-http://46.149.191.217:9011/play/a00s
-#EXTINF:-1 tvg-id="MTV 80s.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/264.png" group-title="Música",MTV 80s
-http://46.149.191.217:9011/play/a00u
-#EXTINF:-1 tvg-id="MTV 90s.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/264.png" group-title="Música",MTV 90s
-http://46.149.191.217:9011/play/a00v
-#EXTINF:-1 tvg-id="MTV00.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/264.png" group-title="Música",MTV 00s
-http://46.149.191.217:9011/play/a00r
-#EXTINF:-1 tvg-id="QUIERO.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/269.png" group-title="Música",Quiero Música en mi Idioma
-http://200.219.40.1:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="TOTALMUSIC.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="TOTALMUSIC80s.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s
@@ -117,6 +105,12 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="TOTALMUSICDance.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Música",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="QUIERO.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/269.png" group-title="Música",Quiero Música en mi Idioma
+http://200.219.40.1:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="Tierra Mia.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" group-title="Música",Tierra Mia
+http://186.125.218.198:13000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="Music Top.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Musictop_logo_2016.png/120px-Musictop_logo_2016.png" group-title="Música",Music Top
+http://69.48.207.25/musictop/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cine-canal-lam.png" group-title="Cine",Cinecanal
 http://190.104.67.173:234/play/a089/index.m3u8
@@ -193,6 +187,6 @@ http://190.235.206.107:9070/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-id="KanadeTV" tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Internacional",Kanade (Chile)
 https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-id="VTV.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Internacional",VTV (Venezuela)
-https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
+http://38.41.8.1:8000/play/a0xq
 #EXTINF:-1 tvg-id="TELESUR.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="Internacional",TeleSur (Venezuela)
 http://179.51.160.246:8888/play/a02h/index.m3u8
