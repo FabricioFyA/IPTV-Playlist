@@ -71,30 +71,28 @@ http://200.219.40.1:8000/play/a04y/index.m3u8
 https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="Infantiles",Cartoonito
 http://190.235.206.107:9070/play/a0oq/index.m3u8
-#EXTINF:-1 tvg-id="Teen Nick.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TeenNick_2023_Outlined_Logo.png/500px-TeenNick_2023_Outlined_Logo.png" group-title="Infantiles",TeenNick (Disponible hasta el 31 de Diciembre)
-http://45.5.151.62:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Infantiles",DreamWorks
 http://45.5.151.62:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="HBO Premium",HBO
-http://45.5.151.62:8000/play/a084/index.m3u8
+http://190.104.67.86:234/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="HBO Premium",HBO 2
 http://45.5.151.62:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/526.png" group-title="HBO Premium",HBO Plus
-http://45.5.151.62:8000/play/a089/index.m3u8
+http://181.209.194.14:8001/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="HBO Premium",HBO Signature
 http://200.219.40.1:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="HBO Premium",HBO Family
-http://200.219.40.1:8000/play/a06r/index.m3u8
+http://190.14.10.19:16000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO Premium",HBO Mundi
 http://200.219.40.1:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="HBO POP.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="HBO Premium",HBO POP
-http://45.5.151.62:8000/play/a08a/index.m3u8
+http://190.109.29.163:9000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="HBO Premium",HBO Xtreme
-http://200.219.40.1:8000/play/a02b/index.m3u8
+http://190.61.43.121:45000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/264.png" group-title="Música",MTV (Según esto es un canal de Música)
-http://200.219.40.1:8000/play/a02m/index.m3u8
+http://190.104.67.224:234/play/a0od/index.m3u8
 #EXTINF:-1 tvg-id="TOTALMUSIC.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="TOTALMUSIC80s.ar" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s
@@ -113,15 +111,15 @@ http://186.125.218.198:13000/play/a02u/index.m3u8
 http://69.48.207.25/musictop/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cine-canal-lam.png" group-title="Cine",Cinecanal
-http://190.104.67.173:234/play/a089/index.m3u8
+http://179.1.202.41:45000/play/a08p/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/204.png" group-title="Cine",Star Channel
-http://200.219.40.1:8000/play/a079/index.m3u8
+http://190.104.67.155:234/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/207.png" group-title="Cine",A&E
 http://200.219.40.1:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/217.png" group-title="Cine",FX
-http://45.5.151.62:8000/play/a080/index.m3u8
+http://187.102.211.200:49000/play/a01k
 #EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/209.png" group-title="Cine",AXN
-http://200.219.40.1:8000/play/a05f/index.m3u8
+http://45.190.185.204:8990/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/218.png" group-title="Cine",Universal TV
 http://200.219.40.1:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png" group-title="Cine",Studio Universal
@@ -131,11 +129,9 @@ http://200.219.40.1:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/215.png" group-title="Variedades",Comedy Central
 http://200.219.40.1:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/210.png" group-title="Cine",AMC
-http://200.219.40.1:8000/play/a01z/index.m3u8
+http://216.107.136.17:18112/play/a0jr/index.m3u8
 #EXTINF:-1 tvg-id="VOLVER.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/238.png" group-title="Variedades",Volver
 http://200.219.40.1:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/510.png" group-title="Cine",Paramount Channel (Disponible hasta el 31 de Diciembre.)
-http://45.238.54.67:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH HD.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" group-title="Variedades",Discovery Home & Health
 http://200.219.40.1:8000/play/a07h/index.m3u8
