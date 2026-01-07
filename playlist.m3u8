@@ -152,7 +152,7 @@ http://186.121.139.227:8000/play/a00e/index.m3u8
 http://200.219.40.1:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/215.png" group-title="Variedades",Comedy Central
 http://200.219.40.1:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="CINEARTV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/215.png" group-title="Cine.ar",Cine.ar
+#EXTINF:-1 tvg-id="CINEARTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/330px-Cine.Ar_logo.svg.png" group-title="Cine.ar",Cine.ar
 http://45.5.151.62:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/210.png" group-title="Cine",AMC
 http://216.107.136.17:18112/play/a0jr/index.m3u8
