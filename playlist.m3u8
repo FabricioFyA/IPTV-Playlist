@@ -49,7 +49,7 @@ http://190.104.67.79:234/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS 2.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/608.png" group-title="Deportes",FOX Sports 2
 http://200.80.230.124:8000/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/609.png" group-title="Deportes",FOX Sports 3
-http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMAZkbO3bK0U4vUMmlY6LTje/m3u8
+http://181.198.105.69:8111/play/a1gi/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/621.png" group-title="Deportes",ESPN
 http://200.219.40.1:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/622.png" group-title="Deportes",ESPN 2
@@ -135,21 +135,21 @@ http://69.48.207.25/musictop/index.m3u8
 ################### Cine ###################
 
 #EXTINF:-1 tvg-id="CINECANAL.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cine-canal-lam.png" group-title="Cine",Cinecanal
-http://38.250.125.162:9800/play/073/index.m3u8
+http://45.5.151.62:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/204.png" group-title="Cine",Star Channel
-http://190.104.67.155:234/play/a087/index.m3u8
+http://45.5.151.62:8000/play/a0am/index.m3u8
 #EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/207.png" group-title="Cine",A&E
 http://200.219.40.1:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/217.png" group-title="Cine",FX
 http://187.102.211.200:49000/play/a01k
 #EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/209.png" group-title="Cine",AXN
-http://45.190.185.204:8990/play/a0cy/index.m3u8
+http://190.104.67.216:234/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/218.png" group-title="Cine",Universal TV
-http://200.219.40.1:8000/play/a05j/index.m3u8
+http://45.5.151.62:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/studio-universal-lam.png" group-title="Cine",Studio Universal
 http://186.121.139.227:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/206.png" group-title="Cine",Warner Bros. TV
-http://200.219.40.1:8000/play/a05e/index.m3u8
+http://45.5.151.62:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/215.png" group-title="Variedades",Comedy Central
 http://200.219.40.1:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="CINEARTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/330px-Cine.Ar_logo.svg.png" group-title="Cine.ar",Cine.ar
