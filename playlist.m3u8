@@ -106,10 +106,17 @@ http://200.219.40.1:8000/play/a02a/index.m3u8
 http://190.109.29.163:9000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="HBO Premium",HBO Xtreme
 http://200.106.13.204:8000/play/a0j2/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSAL Cinema West.ar" tvg-logo="https://normielista.online/logos/universal_cinema.png" group-title="Universal+",Universal Cinema
-http://190.106.206.74:16000/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="Universal Premiere.ar" tvg-logo="https://normielista.online/logos/universal_premiere.png" group-title="Universal+",Universal Premiere
+#EXTINF:-1 tvg-id="Universal Premiere Este.ar" tvg-logo="https://normielista.online/logos/universal_premiere.png" group-title="Universal+",Universal Premiere
 http://38.159.227.126:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="Universal Cinema.ar" tvg-logo="https://normielista.online/logos/universal_cinema.png" group-title="Universal+",Universal Cinema
+http://190.106.206.74:16000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="Universal Comedy.ar" tvg-logo="https://normielista.online/logos/universal_comedy.png" group-title="Universal+",Universal Comedy
+http://190.106.206.74:16000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="Universal Crime Este.ar" tvg-logo="https://normielista.online/logos/universal_crime.png" group-title="Universal+",Universal Crime
+http://190.106.206.74:16000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="Universal Reality.ar" tvg-logo="https://normielista.online/logos/universal_reality.png" group-title="Universal+",Universal Reality
+http://190.106.206.74:16000/play/a056/index.m3u8
+
 
 ################### Música ###################
 
