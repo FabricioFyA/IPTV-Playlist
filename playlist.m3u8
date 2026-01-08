@@ -16,6 +16,8 @@ http://200.219.40.1:8000/play/a0bg/index.m3u8
 http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMD03MBsxOnHdHQCM-WcSaYF/m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/716.png" group-title="Argentina",Todo Noticias
 http://200.219.40.1:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.postimg.cc/c4RDzdJK/TN-4K.png" group-title="Argentina",Todo Noticias 4K
+https://cdnlatam.sysedge-delivery.com/out_v1_4K_test/index.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/717.png" group-title="Argentina",C5N
 http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMAaxCQEDrp6m1D4wluKLTHu/m3u8
 #EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="Argentina",Crónica TV
