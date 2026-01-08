@@ -164,7 +164,7 @@ http://45.5.151.62:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/210.png" group-title="Cine",AMC
 http://216.107.136.17:18112/play/a0jr/index.m3u8
 #EXTINF:-1 tvg-id="VOLVER.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/238.png" group-title="Variedades",Volver
-http://200.219.40.1:8000/play/a021/index.m3u8
+http://45.5.151.62:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH HD.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" group-title="Variedades",Discovery Home & Health
 http://200.219.40.1:8000/play/a07h/index.m3u8
