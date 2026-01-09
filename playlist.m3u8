@@ -19,7 +19,7 @@ http://200.219.40.1:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.postimg.cc/c4RDzdJK/TN-4K.png" group-title="Argentina",Todo Noticias 4K
 https://cdnlatam.sysedge-delivery.com/out_v1_4K_test/index.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/717.png" group-title="Argentina",C5N
-http://38.7.216.199/play/cwNfkA9FClNaqSltBxphXdbPWjHCkluiRPsw-RNchMAaxCQEDrp6m1D4wluKLTHu/m3u8
+http://45.5.151.62:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="Argentina",Crónica TV
 http://200.219.40.1:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/719.png" group-title="Argentina",A24
@@ -38,7 +38,7 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-id="Canal 7 de Jujuy.ar" tvg-logo="https://canal7dejujuy.com.ar/wp-content/uploads/2022/11/cropped-7-00-1-1-192x192.png" group-title="Argentina",Canal 7 de Jujuy
 http://45.5.151.62:8000/play/a09x/index.m3u8
 #EXTINF:-1 tvg-id="Canal 4 de Jujuy.ar" tvg-logo="https://www.elcuatro.com/public/uploads/3854878929bc5736ed10d7242d8818d5.jpg" group-title="Argentina",Canal 4 de Jujuy
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w1247097867_b4128000.m3u8
 
 ################### Deportes ###################
 
@@ -159,10 +159,18 @@ http://45.5.151.62:8000/play/a0ab/index.m3u8
 http://186.121.139.227:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/206.png" group-title="Cine",Warner Bros. TV
 http://45.5.151.62:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="SPACE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" group-title="Cine",Space
+http://186.125.218.198:13000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://normielista.online/logos/tnt.png" group-title="Cine",TNT
+http://190.104.67.118:234/play/a08b/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="Cine",Cinemax
+http://45.5.151.62:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/215.png" group-title="Variedades",Comedy Central
 http://200.219.40.1:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="CINEARTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/330px-Cine.Ar_logo.svg.png" group-title="Cine.ar",Cine.ar
+#EXTINF:-1 tvg-id="CINEARTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/330px-Cine.Ar_logo.svg.png" group-title="Cine",Cine.ar
 http://45.5.151.62:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="EUROPA EUROPA.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Cine",Europa Europa
+http://45.224.96.65:8011/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/210.png" group-title="Cine",AMC
 http://216.107.136.17:18112/play/a0jr/index.m3u8
 #EXTINF:-1 tvg-id="VOLVER.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/238.png" group-title="Variedades",Volver
